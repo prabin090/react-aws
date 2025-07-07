@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello World! This is a simple React application . It is deployed on AWS S3 using GitHub Actions.
+          My First React App on AWS S3 with GitHub Actions!
         </p>
         
       </header>
